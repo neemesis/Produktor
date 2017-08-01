@@ -1,0 +1,6 @@
+D:\Mine\Produktor\Produktor\bin\Debug\Produktor.exe.config
+D:\Mine\Produktor\Produktor\bin\Debug\Produktor.exe
+D:\Mine\Produktor\Produktor\bin\Debug\Produktor.pdb
+D:\Mine\Produktor\Produktor\obj\Debug\Produktor.csprojResolveAssemblyReference.cache
+D:\Mine\Produktor\Produktor\obj\Debug\Produktor.exe
+D:\Mine\Produktor\Produktor\obj\Debug\Produktor.pdb
